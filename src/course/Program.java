@@ -21,6 +21,7 @@ public class Program {
 		System.out.println(x1);
 		System.out.println(sdf2.format(x1));
 		System.out.println(sdf2.format(x2));
+		System.out.println(x2);
 
 	}
 
